@@ -1,0 +1,1094 @@
+{
+  "result": 1,
+  "errorMsg": "OK",
+  "llsid": 0,
+  "data": {
+    "md5": "4ca3e62531c825b0b047ea26093d1bcc",
+    "templates": [
+      {
+        "templateId": "adtk-card-external-coupon",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-external-coupon.105.js",
+        "templateVersion": "1.0.5",
+        "templateVersionCode": 105,
+        "templateMd5": "7643709ea3524e1bf7fa4a3b96828023",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.3.10\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-neo-play-end-shop-v1",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-neo-play-end-shop-v1.101.js",
+        "templateVersion": "1.0.1",
+        "templateVersionCode": 101,
+        "templateMd5": "191d611474591454de870ba5b66de2ea",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-card-double-action-bar",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-double-action-bar.114.js",
+        "templateVersion": "1.1.4",
+        "templateVersionCode": 114,
+        "templateMd5": "f055426de1c517d3a6fab78ebad65fec",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-animate-image",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-animate-image.117.js",
+        "templateVersion": "1.1.7",
+        "templateVersionCode": 117,
+        "templateMd5": "e6744c92178a6225df325e55bdc4602c",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-pop-play-ad-v2",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-pop-play-ad-v2.103.js",
+        "templateVersion": "1.0.3",
+        "templateVersionCode": 103,
+        "templateMd5": "d6516f8d672669cf25caedff47ec462e",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.30\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-actionbar-neo-shop-v1",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-actionbar-neo-shop-v1.101.js",
+        "templateVersion": "1.0.1",
+        "templateVersionCode": 101,
+        "templateMd5": "537fc6489bcad2fab011904ef6f13ce9",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-card-feed-card4",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-feed-card4.116.js",
+        "templateVersion": "1.1.6",
+        "templateVersionCode": 116,
+        "templateMd5": "4676ec52ae50c5c0fec40ac605859c32",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.10\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-feed-card12-copy2",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-card-feed-card12.118.js",
+        "templateVersion": "1.1.4",
+        "templateVersionCode": 114,
+        "templateMd5": "33891855ab90c693df935faab3522e9b",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.10\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-game-vertical",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-game-vertical.102.js",
+        "templateVersion": "1.0.2",
+        "templateVersionCode": 102,
+        "templateMd5": "748de0005da26b886836ad65cd1aa4cf",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"9.8.50\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-feed-card5",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-feed-card5.113.js",
+        "templateVersion": "1.1.3",
+        "templateVersionCode": 113,
+        "templateMd5": "7959bd161a8de7028a3f16fcd11669d8",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.10\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-feed-mixbar-copy",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/d_adtk-feed-mixbar.117.js",
+        "templateVersion": "1.1.7",
+        "templateVersionCode": 117,
+        "templateMd5": "fba5208fcf514774b9cc89f6edeecd46",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.1.10\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "dynamic-actionbar-reward-live-reservation",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_dynamic-actionbar-reward-live-reservation.100.js",
+        "templateVersion": "1.0.0",
+        "templateVersionCode": 100,
+        "templateMd5": "a68de0eff664699a343a9f267f53cc6e",
+        "greyType": 0,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-action-bar-ad-v11-brand",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-action-bar-ad-v11-brand.105.js",
+        "templateVersion": "1.0.5",
+        "templateVersionCode": 105,
+        "templateMd5": "ec3ce214a52f6694cbf0c402de3cd19a",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-pop-play-ad-v1",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/d_adtk-pop-play-ad-v1.103.js",
+        "templateVersion": "1.0.3",
+        "templateVersionCode": 103,
+        "templateMd5": "4e7e2c0021c0633db63834c91caada85",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.30\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-feed-play-interaction-brand",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-feed-play-interaction.115.js",
+        "templateVersion": "1.1.5",
+        "templateVersionCode": 115,
+        "templateMd5": "a746ce3888519216d404174da30b6d51",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-novel-v2",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-novel-v2.103.js",
+        "templateVersion": "1.0.3",
+        "templateVersionCode": 103,
+        "templateMd5": "8cd559e33cedce92f3266cda3a7b3ea3",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.10\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "dynamic-play-end-view-coupons",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_dynamic-play-end-view-coupons.105.js",
+        "templateVersion": "1.0.5",
+        "templateVersionCode": 105,
+        "templateMd5": "a5a28fbc5b412a17d367eb6ce2bf9687",
+        "greyType": 0,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-actionbar-live-reservation",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-actionbar-live-reservation.108.js",
+        "templateVersion": "1.0.8",
+        "templateVersionCode": 108,
+        "templateMd5": "c33e6b709cf649a6f6e447a29f470f82",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-action-bar-ad-v21-brand",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/d_adtk-action-bar-ad-v21.117.js",
+        "templateVersion": "1.1.7",
+        "templateVersionCode": 117,
+        "templateMd5": "7da397560e148a2b06b1477f1e48091f",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.30\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-play-end-view-seckill",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-play-end-view-seckill.103.js",
+        "templateVersion": "1.0.3",
+        "templateVersionCode": 103,
+        "templateMd5": "18b37f78d4e6e0486308090c49e83e27",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"9.11.30\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-actionbar-shopping-cart-brand",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-actionbar-shopping-cart.118.js",
+        "templateVersion": "1.1.8",
+        "templateVersionCode": 118,
+        "templateMd5": "bd6dc0dd215d5810106c78621d2b81cb",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.3.20\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-neo-action-bar-shop",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-neo-action-bar-shop.103.js",
+        "templateVersion": "1.0.3",
+        "templateVersionCode": 103,
+        "templateMd5": "138535ce14a91fbb37a19216eb1959cb",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-neo-exit-dialog-shop-v1",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-neo-exit-dialog-shop-v1.100.js",
+        "templateVersion": "1.0.0",
+        "templateVersionCode": 100,
+        "templateMd5": "040aaf2d13499949571ce4f75193500f",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-action-bar-ad-v1",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-action-bar-ad-v1.114.js",
+        "templateVersion": "1.1.4",
+        "templateVersionCode": 114,
+        "templateMd5": "68a01f43d6e434b1eb816f04b9db7e6a",
+        "greyType": 0,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "dynamic-feed-survey",
+        "templateUrl": "https://static.yximgs.com/s1/tachikoma/dist/dynamic-feed-survey.100.js",
+        "templateVersion": "1.0.1",
+        "templateVersionCode": 101,
+        "templateMd5": "5fec418c90b099ce640ecba022936194",
+        "greyType": 0,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-feed-hot",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-feed-hot.104.js",
+        "templateVersion": "1.0.4",
+        "templateVersionCode": 104,
+        "templateMd5": "4c257ace359b6418a87ca8b53a1f870b",
+        "greyType": 0,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-action-bar-ad-v5",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-action-bar-ad-v5.110.js",
+        "templateVersion": "1.1.0",
+        "templateVersionCode": 110,
+        "templateMd5": "2fab81d24932ab7bef11cd9f1dbc4904",
+        "greyType": 0,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-feed-play-interaction-flow",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-feed-play-interaction.115.js",
+        "templateVersion": "1.1.5",
+        "templateVersionCode": 115,
+        "templateMd5": "a746ce3888519216d404174da30b6d51",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "dynamic-play-end-view-v1",
+        "templateUrl": "https://static.yximgs.com/s1/tachikoma/dist/dynamic-play-end-view-v1.104.js",
+        "templateVersion": "1.0.4",
+        "templateVersionCode": 104,
+        "templateMd5": "0f248691aa670f7688c384d23c9fcca0",
+        "greyType": 0,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-card-ad-home",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-ad-home.103.js",
+        "templateVersion": "1.0.3",
+        "templateVersionCode": 103,
+        "templateMd5": "1314ba3d740341be95806174e28478c5",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-card-ad-car",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-ad-car.104.js",
+        "templateVersion": "1.0.4",
+        "templateVersionCode": 104,
+        "templateMd5": "6782284a9c9dc27950301a38e9e9d4c6",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-action-bar-ad-v11",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-action-bar-ad-v11.137.js",
+        "templateVersion": "1.3.7",
+        "templateVersionCode": 137,
+        "templateMd5": "f9f601f35780e17e028a0fb14a293b87",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.1.10\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-neo-play-end-live-reservation",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-neo-play-end-live-reservation.102.js",
+        "templateVersion": "1.0.2",
+        "templateVersionCode": 102,
+        "templateMd5": "a369b6dde397edc0d81c7f91b6105e3b",
+        "greyType": 0,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-card-feed-coupon",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-card-feed-coupon.116.js",
+        "templateVersion": "1.1.6",
+        "templateVersionCode": 116,
+        "templateMd5": "7b9be460dc4fae292b51b085fcd17a30",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "",
+          "appVersions": "{\"startVer\":\"9.10.20\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-feed-seckill",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-card-feed-seckill.101.js",
+        "templateVersion": "1.0.1",
+        "templateVersionCode": 101,
+        "templateMd5": "223b2b44cfb7b0823c1cca526d4d03fb",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"9.11.30\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-feed-form2",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-feed-form2.108.js",
+        "templateVersion": "1.0.8",
+        "templateVersionCode": 108,
+        "templateMd5": "6a7a3dd738af5c5b07ce387fe15fd9d2",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-feed-card12-copy",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-card-feed-card12.118.js",
+        "templateVersion": "1.1.6",
+        "templateVersionCode": 116,
+        "templateMd5": "33891855ab90c693df935faab3522e9b",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.10\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-animate-image-brand",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-card-animate-image.116.js",
+        "templateVersion": "1.1.1",
+        "templateVersionCode": 111,
+        "templateMd5": "a3ff18d45937e9909a35daaafafbb124",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.10\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-live-reservation",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-live-reservation.106.js",
+        "templateVersion": "1.0.6",
+        "templateVersionCode": 106,
+        "templateMd5": "72c5047a08e6819a63a1d66af5ed7ace",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.10\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-non-download",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-non-download.102.js",
+        "templateVersion": "1.0.2",
+        "templateVersionCode": 102,
+        "templateMd5": "cf790a3e665546059b440d07246de021",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-card-live-fans-increase",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-live-fans-increase.103.js",
+        "templateVersion": "1.0.3",
+        "templateVersionCode": 103,
+        "templateMd5": "da08cc8c2d3a3b50368d1a07a8b2e2b8",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.10\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-feed-coupon-v1",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-card-feed-coupon-v1.114.js",
+        "templateVersion": "1.1.4",
+        "templateVersionCode": 114,
+        "templateMd5": "202101172ab674e46cb06b6ce076fb15",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "",
+          "appVersions": "{\"startVer\":\"9.10.20\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-game-platform-v2",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-game-platform-v2.104.js",
+        "templateVersion": "1.0.4",
+        "templateVersionCode": 104,
+        "templateMd5": "bf981fe8a491bbf111780e84556b2fca",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-live-watch",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-card-live-watch.107.js",
+        "templateVersion": "1.0.7",
+        "templateVersionCode": 107,
+        "templateMd5": "c5d7421d9ee9820eb67148092bf33b6d",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "",
+          "appVersions": "{\"startVer\":\"10.2.10\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-actionbar-game-launch",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/d_adtk-actionbar-game-platform.107.js",
+        "templateVersion": "1.0.7",
+        "templateVersionCode": 107,
+        "templateMd5": "3cc26e9cec7c47bd0e1d5e72ca809e87",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.30\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-actionbar-game-platform-v2",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-actionbar-game-platform-v2.105.js",
+        "templateVersion": "1.0.5",
+        "templateVersionCode": 105,
+        "templateMd5": "859538bf5c88b3ee39205d56d3b8d03c",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "dynamic-action-bar-ad-v20",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_dynamic-action-bar-ad-v20.111.js",
+        "templateVersion": "1.1.1",
+        "templateVersionCode": 111,
+        "templateMd5": "2b6d99d9a6579c18d0c7dddad6d1a1bd",
+        "greyType": 0,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-action-bar-v22",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-action-bar-v22.103.js",
+        "templateVersion": "1.0.3",
+        "templateVersionCode": 103,
+        "templateMd5": "258055c6ed4b7a3fbfff401bdfb8bb77",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.3.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-ad-v3",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-ad-v3.116.js",
+        "templateVersion": "1.1.6",
+        "templateVersionCode": 116,
+        "templateMd5": "3233f651a5e96bce3375c5437e36ad59",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-feed-card12",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-feed-card12.121.js",
+        "templateVersion": "1.2.1",
+        "templateVersionCode": 121,
+        "templateMd5": "87f75b23dc2a437758f6f5eb2ac0e223",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-action-bar-ad-v21-copy",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/d_adtk-action-bar-ad-v21.117.js",
+        "templateVersion": "1.1.7",
+        "templateVersionCode": 117,
+        "templateMd5": "7da397560e148a2b06b1477f1e48091f",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.30\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-actionbar-game-platform",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/d_adtk-actionbar-game-platform.107.js",
+        "templateVersion": "1.0.7",
+        "templateVersionCode": 107,
+        "templateMd5": "3cc26e9cec7c47bd0e1d5e72ca809e87",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.30\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "dynamic-card-ad-v1",
+        "templateUrl": "https://static.yximgs.com/s1/tachikoma/dist/dynamic-card-ad-v1.111.js",
+        "templateVersion": "1.1.1",
+        "templateVersionCode": 111,
+        "templateMd5": "200aa0c2378259a6080c6cc5b8018b91",
+        "greyType": 0,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-card-neo-creative-v1",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-card-neo-creative-v1.101.js",
+        "templateVersion": "1.0.1",
+        "templateVersionCode": 101,
+        "templateMd5": "3cef18228c44be4c8048ec1205317ec3",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "dynamic-goods-card-ad-v1",
+        "templateUrl": "https://static.yximgs.com/s1/tachikoma/dist/dynamic-goods-card-ad-v1.111.js",
+        "templateVersion": "1.1.1",
+        "templateVersionCode": 111,
+        "templateMd5": "3cb39f944e9dd020f7aaa0a6e5322cf8",
+        "greyType": 0,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-card-neo-from-v1",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-card-neo-from-v1.100.js",
+        "templateVersion": "1.0.0",
+        "templateVersionCode": 100,
+        "templateMd5": "4b79df27bb6971d6bde7da5c6fdfcf1c",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-card-neo-coupon",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-neo-coupon.100.js",
+        "templateVersion": "1.0.0",
+        "templateVersionCode": 100,
+        "templateMd5": "2509f175b9e42f9080b09794e95e89cb",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "",
+          "appVersions": "{\"startVer\":\"10.2.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "dynamic-clue-fin-card-v1",
+        "templateUrl": "https://static.yximgs.com/s1/tachikoma/dist/dynamic-clue-fin-card-v1.109.js",
+        "templateVersion": "1.0.9",
+        "templateVersionCode": 109,
+        "templateMd5": "adab5a4c7581480e7c2a0c86601a82a1",
+        "greyType": 0,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-card-game-platform-v2",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-game-platform-v2.105.js",
+        "templateVersion": "1.0.5",
+        "templateVersionCode": 105,
+        "templateMd5": "b9c16bcca910f16bb113656e182e462d",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-neo-play-end-merchant-follow",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-neo-play-end-merchant-follow.103.js",
+        "templateVersion": "1.0.3",
+        "templateVersionCode": 103,
+        "templateMd5": "0df2ef4237e564ca001e67eac7380202",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-goods-card-ad-v2",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-goods-card-ad-v2.108.js",
+        "templateVersion": "1.0.8",
+        "templateVersionCode": 108,
+        "templateMd5": "2bbbe95e6cda9d0194ef8fb1e5e67f79",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.10\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-actionbar-search-detail-follow",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-actionbar-search-detail-follow.106.js",
+        "templateVersion": "1.0.6",
+        "templateVersionCode": 106,
+        "templateMd5": "e275bc4f77223029eeb0cf759008b5fc",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.30\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "dynamic-action-bar-ad",
+        "templateUrl": "https://static.yximgs.com/s1/tachikoma/dist/dynamic-action-bar-ad.101.js",
+        "templateVersion": "1.0.1",
+        "templateVersionCode": 101,
+        "templateMd5": "75e0ad6659f9b4f645d94799a44d39eb",
+        "greyType": 0,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-feed-mixbar",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-feed-mixbar.120.js",
+        "templateVersion": "1.2.0",
+        "templateVersionCode": 120,
+        "templateMd5": "a2fe136807556b88d818d76ba02fd3ee",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-play-end-view-v1",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-play-end-view-v1.116.js",
+        "templateVersion": "1.1.6",
+        "templateVersionCode": 116,
+        "templateMd5": "5e126704cf9fa6ebca6b1cffe8c2f018",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"9.8.50\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-play-end-view-v2",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/d_adtk-play-end-view-v2.116.js",
+        "templateVersion": "1.1.6",
+        "templateVersionCode": 116,
+        "templateMd5": "bbac1d0c1bf93346eea95ea6fde509ab",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "dynamic-card-feed-card3",
+        "templateUrl": "https://static.yximgs.com/s1/tachikoma/dist/dynamic-card-feed-card3.109.js",
+        "templateVersion": "1.1.0",
+        "templateVersionCode": 110,
+        "templateMd5": "0d6a3fcdc629cad6b58de86818e84365",
+        "greyType": 0,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-play-end-view-v2-brand",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-play-end-view-v2-brand.109.js",
+        "templateVersion": "1.0.9",
+        "templateVersionCode": 109,
+        "templateMd5": "ca96489303406dd7b0c987828a2abfd6",
+        "greyType": 0,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-play-end-view-live",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-play-end-view-live.107.js",
+        "templateVersion": "1.0.7",
+        "templateVersionCode": 107,
+        "templateMd5": "9c3bf373f29c4ca8da79cd49e67b931e",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-card-novel-v1",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-card-novel-v1.106.js",
+        "templateVersion": "1.0.6",
+        "templateVersionCode": 106,
+        "templateMd5": "05ead8e8ebd2b3cbaf19b0e2c278592e",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.10\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-play-end-view-live-reservation",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-play-end-view-live-reservation.104.js",
+        "templateVersion": "1.0.4",
+        "templateVersionCode": 104,
+        "templateMd5": "276b9f5e7e9ba500fe4da6735582ecfb",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"9.8.50\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-play-end-search-detail-follow",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-play-end-search-detail-follow.108.js",
+        "templateVersion": "1.0.8",
+        "templateVersionCode": 108,
+        "templateMd5": "760eadeb2db90a14a3dc58ba95fb2c99",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.30\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-shopping-cart",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-shopping-cart.112.js",
+        "templateVersion": "1.1.2",
+        "templateVersionCode": 112,
+        "templateMd5": "2ddcd1d1bd1563291c5a105d3fd6e402",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-cover-action-bar-neo-live-reservation",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-cover-action-bar-neo-live-reservation.100.js",
+        "templateVersion": "1.0.0",
+        "templateVersionCode": 100,
+        "templateMd5": "f8ef399a2f1f03ca07faebb78de3d9d0",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"9.11.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-actionbar-shopping-cart",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-actionbar-shopping-cart.117.js",
+        "templateVersion": "1.1.7",
+        "templateVersionCode": 117,
+        "templateMd5": "b5bc348aad1498e8af80243dab8b5759",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-game-platform",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-card-game-platform.106.js",
+        "templateVersion": "1.0.6",
+        "templateVersionCode": 106,
+        "templateMd5": "d88e2771765f226a70c5338cc7f7e9a1",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-actionbar-fans-increase",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-actionbar-fans-increase.107.js",
+        "templateVersion": "1.0.7",
+        "templateVersionCode": 107,
+        "templateMd5": "babb8f0add726fdf4486dd8f40b2dd39",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-actionbar-fans-increase-v1",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-actionbar-fans-increase-v1.108.js",
+        "templateVersion": "1.0.8",
+        "templateVersionCode": 108,
+        "templateMd5": "6d4cb6e1579e79f84110611a3f5b95cd",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.30\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-card-game-launch",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-card-game-platform.106.js",
+        "templateVersion": "1.0.6",
+        "templateVersionCode": 106,
+        "templateMd5": "d88e2771765f226a70c5338cc7f7e9a1",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-actionbar-live-watch",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-actionbar-live-watch.104.js",
+        "templateVersion": "1.0.4",
+        "templateVersionCode": 104,
+        "templateMd5": "c12ed33cda7b8d3d42f247edbe94d84a",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-card-v22",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-card-v22.104.js",
+        "templateVersion": "1.0.4",
+        "templateVersionCode": 104,
+        "templateMd5": "b55473c61f8f1dde7d84d5e1a9654ae6",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.3.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-actionbar-live-reservation",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/d_adtk-actionbar-live-reservation.111.js",
+        "templateVersion": "1.1.1",
+        "templateVersionCode": 111,
+        "templateMd5": "e4a9987e367044eec0fb7ee1e913c1f1",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.30\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-actionbar-game-platform-v2",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-actionbar-game-platform-v2.107.js",
+        "templateVersion": "1.0.7",
+        "templateVersionCode": 107,
+        "templateMd5": "070416066a6ae21d4747bf886dc4e30e",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-actionbar-live-fans-increase",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-actionbar-live-fans-increase.106.js",
+        "templateVersion": "1.0.6",
+        "templateVersionCode": 106,
+        "templateMd5": "b35ed058b82ec7bf4b8d511108783e7b",
+        "greyType": 1,
+        "productType": 1,
+        "matrixStyleTemplateRule": null
+      },
+      {
+        "templateId": "adtk-feed-play-interaction-popshow",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-feed-play-interaction.115.js",
+        "templateVersion": "1.1.5",
+        "templateVersionCode": 115,
+        "templateMd5": "a746ce3888519216d404174da30b6d51",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-feed-play-interaction",
+        "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-feed-play-interaction.115.js",
+        "templateVersion": "1.1.5",
+        "templateVersionCode": 115,
+        "templateMd5": "a746ce3888519216d404174da30b6d51",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.40\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      },
+      {
+        "templateId": "adtk-action-bar-ad-v71",
+        "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/d_adtk-action-bar-ad-v21.117.js",
+        "templateVersion": "1.1.7",
+        "templateVersionCode": 117,
+        "templateMd5": "7da397560e148a2b06b1477f1e48091f",
+        "greyType": 2,
+        "productType": 1,
+        "matrixStyleTemplateRule": {
+          "platforms": "[]",
+          "appVersions": "{\"startVer\":\"10.2.30\",\"endVer\":null}",
+          "env": "ALL"
+        }
+      }
+    ]
+  },
+  "innerCode": 0,
+  "error_msg": "OK"
+}
